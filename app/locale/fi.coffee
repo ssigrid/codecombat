@@ -28,7 +28,7 @@ module.exports = nativeDescription: "suomi", englishDescription: "Finnish", tran
 #    century_skills_quote4: "I’ve always had aspirations of designing video games and learning how to code ... this is giving me a great starting point."
     century_skills_subtitle4: "Vuorovaikutus"
 #    century_skills_subblurb4: "Coding requires kids to practice new forms of communication, including communicating with the computer itself and conveying their ideas using the most efficient code."
-#    classroom_in_box_title: "We Strive To:"
+    classroom_in_box_title: "Tavoitteemme"
 #    classroom_in_box_blurb1: "Engage every student so that they believe coding is for them."
 #    classroom_in_box_blurb2: "Empower any educator to feel confident when teaching coding."
 #    classroom_in_box_blurb3: "Inspire all school leaders to create a world-class computer science program."
@@ -60,7 +60,7 @@ module.exports = nativeDescription: "suomi", englishDescription: "Finnish", tran
 #    for_leaders_subblurb3: "Whether you want to build a Middle School coding elective, a CTE pathway, or are teaching an Intro to CS class, CodeCombat is tailored to suit your needs."
 #    for_leaders_subtitle4: "Real-World Skills"
 #    for_leaders_subblurb4: "Students build grit and develop a growth mindset through coding challenges that prepare them for the 500K+ open computing jobs."
-#    for_teachers_title: "For Teachers"
+     for_teachers_title: "Opettajille"
 #    for_teachers_blurb: "Tools to Unlock Student Potential"
 #    for_teachers_subtitle1: "Project-Based Learning"
 #    for_teachers_subblurb1: "Promote creativity, problem-solving, and confidence in project-based courses where students develop their own games and webpages."
@@ -75,8 +75,8 @@ module.exports = nativeDescription: "suomi", englishDescription: "Finnish", tran
 #    global_title: "Join Our Global Community of Learners and Educators"
 #    global_subtitle1: "Learners"
     global_subtitle2: "Riviä koodia"
-#    global_subtitle3: "Teachers"
-#    global_subtitle4: "Countries"
+    global_subtitle3: "Opettajat"
+    global_subtitle4: "Maat"
 #    go_to_my_classes: "Go to my classes"
 #    go_to_my_courses: "Go to my courses"
 #    quotes_quote1: "Name any program online, I’ve tried it. None of them match up to CodeCombat. Any teacher who wants their students to learn how to code... start here!"
@@ -96,8 +96,8 @@ module.exports = nativeDescription: "suomi", englishDescription: "Finnish", tran
     classroom_edition: "Kouluversio:"
     learn_to_code: "Opi koodaamaan:"
     play_now: "Pelaa Nyt"
-#    im_a_parent: "I'm a Parent"
-#    im_an_educator: "I'm an Educator"
+    im_a_parent: "Olen huoltaja"
+    im_an_educator: "Olen opettaja"
     im_a_teacher: "Olen Opettaja"
     im_a_student: "Olen Oppilas"
     learn_more: "Lue lisää"
@@ -770,13 +770,13 @@ module.exports = nativeDescription: "suomi", englishDescription: "Finnish", tran
 #    fill_in_solution: "Fill in solution"
 
 #  apis:
-#    methods: "Methods"
+    methods: "Metodit"
 #    events: "Events"
 #    handlers: "Handlers"
 #    properties: "Properties"
 #    snippets: "Snippets"
 #    spawnable: "Spawnable"
-#    html: "HTML"
+    html: "HTML"
 #    math: "Math"
 #    array: "Array"
 #    object: "Object"
@@ -787,7 +787,7 @@ module.exports = nativeDescription: "suomi", englishDescription: "Finnish", tran
 #    jquery: "jQuery"
 #    json: "JSON"
 #    number: "Number"
-#    webjavascript: "JavaScript"
+    webjavascript: "JavaScript"
 
 #  amazon_hoc:
 #    title: "Keep Learning with Amazon!"
@@ -858,7 +858,7 @@ module.exports = nativeDescription: "suomi", englishDescription: "Finnish", tran
     difficulty: "Vaikeustaso"
     gold_collected: "Kultaa kerätty"
 #    survival_time: "Survived"
-#    defeated: "Enemies Defeated"
+    defeated: "Voitettuja vihollisia"
 #    code_length: "Lines of Code"
 #    score_display: "__scoreType__: __score__"
 
@@ -1056,9 +1056,9 @@ module.exports = nativeDescription: "suomi", englishDescription: "Finnish", tran
 #  char_customization_modal:
 #    heading: "Customize Your Hero"
 #    body: "Body"
-#    name_label: "Hero's Name"
-#    hair_label: "Hair Color"
-#    skin_label: "Skin Color"
+    name_label: "Sankarin nimi"
+    hair_label: "Hiusten väri"
+    skin_label: "Ihon väri"
 
   skill_docs:
     function: "funktio" # skill types
